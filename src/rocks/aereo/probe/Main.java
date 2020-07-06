@@ -3,7 +3,7 @@ package rocks.aereo.probe;
 import rocks.aereo.probe.network.NodeThread;
 import rocks.aereo.probe.network.VirtualNetwork;
 
-public class ProbeEchoThread {
+public class Main {
 
     public static void main(String[] args) {
 
